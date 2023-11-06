@@ -1,7 +1,6 @@
 body {
   font-family: "Raleway", sans-serif;
 }
-
 /* Hero Section */
 
 #Hero-Section {
@@ -37,3 +36,6 @@ body {
   }
 
 }
+.bg-dark { 
+  background-color: black !important; 
+  }
